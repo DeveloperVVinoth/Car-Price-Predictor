@@ -5,6 +5,7 @@ This project uses machine learning to predict the **selling price of used cars**
 ## 🔍 Dataset
 
 The dataset used is `car data.csv`, which contains historical car sales data with the following columns:
+
 - `Car_Name`
 - `Year`
 - `Selling_Price`
@@ -64,6 +65,10 @@ Car_Age	8
 ✅ Output
 Predicted Selling Price in Lakhs ₹
 
+ScreenShot:
+<img width="609" height="622" alt="image" src="https://github.com/user-attachments/assets/203d5c74-7a3c-4f2a-bec8-7c47e1ba790f" />
+
+
 📸 App Preview
 
 🛠️ Built With
@@ -74,5 +79,3 @@ pandas, numpy 📉
 
 🙋‍♂️ Author
 Vinoth Viveki — GitHub Profile
-
-Let me know once you’ve saved this or if you'd like to include a screenshot in the repo too. ✅
